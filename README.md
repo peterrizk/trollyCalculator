@@ -1,7 +1,7 @@
 # trollyCalculator
 
 Setup
-8 Requires .net core 3.X SDK and probably either Visual Studio with IIS Express or Code with .net core runtime and CLI
+* Requires .net core 3.X SDK and probably either Visual Studio with IIS Express or Code with .net core runtime and CLI
 * Build and run.
 
 TODO
